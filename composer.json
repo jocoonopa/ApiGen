@@ -19,14 +19,14 @@
         "nette/finder": "^2.4",
         "nette/neon": "^2.4",
 
-        "symfony/config": "^3.3",
-        "symfony/console": "^4.0",
-        "symfony/finder": "^3.3",
-        "symfony/dependency-injection": "^3.3",
-        "symfony/http-kernel": "^3.3",
-        "symfony/yaml": "^3.3",
-        "symplify/package-builder": "^2.2",
-        "psr/container": "^1.0",
+        "symfony/config": "*",
+        "symfony/console": *",
+        "symfony/finder": "*",
+        "symfony/dependency-injection": "*",
+        "symfony/http-kernel": "*",
+        "symfony/yaml": "*",
+        "symplify/package-builder": "*",
+        "psr/container": "*",
         "zendframework/zend-code": "^3.1"
     },
     "require-dev": {
