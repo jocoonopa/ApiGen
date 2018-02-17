@@ -20,7 +20,7 @@
         "nette/neon": "^2.4",
 
         "symfony/config": "*",
-        "symfony/console": *",
+        "symfony/console": "*",
         "symfony/finder": "*",
         "symfony/dependency-injection": "*",
         "symfony/http-kernel": "*",
