@@ -1,6 +1,6 @@
 {
-    "name": "apigen/apigen",
-    "description": "PHP 7.1 source code API generator.",
+    "name": "jocoonopa/apigen",
+    "description": "PHP 7.1 source code API generator. For laravel used...",
     "license": "MIT",
     "authors": [
         { "name": "ApiGen Contributors", "homepage": "https://github.com/apigen/apigen/graphs/contributors" },
