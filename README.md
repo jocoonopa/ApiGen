@@ -5,6 +5,14 @@
 [![Downloads](https://img.shields.io/packagist/dt/apigen/apigen.svg?style=flat-square)](https://packagist.org/packages/apigen/apigen/stats)
 [![Latest stable](https://img.shields.io/packagist/vpre/apigen/apigen.svg?style=flat-square)](https://packagist.org/packages/apigen/apigen)
 
+**記憶體吃很兇，請這樣用**
+
+```
+php -d memory_limit=512M vendor/bin/apigen generate app --destination docs
+```
+
+囫圇吞棗的先把全部 dependencies 都改用 '\*' 了, 目前看來至少會動，先這樣用吧。
+
 ApiGen is the simplest, the easiest to use and the most modern api doc generator. It is **all PHP 7.1 features ready**
 easy to extend with own Finder, Annotation Subscriber or even Generator.
 
